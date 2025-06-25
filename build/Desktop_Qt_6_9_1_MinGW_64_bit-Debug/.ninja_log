@@ -1,0 +1,51 @@
+# ninja log v6
+13	3653	7725315888059105	ElevatorControllerSimulator_autogen/timestamp	bb94a454f6c3b5b6
+3975	10087	7725315892367703	CMakeFiles/ElevatorControllerSimulator.dir/elevatorstate.cpp.obj	80e173316cd6dab
+13	3653	7725315888059105	ElevatorControllerSimulator_autogen/mocs_compilation.cpp	bb94a454f6c3b5b6
+13	3653	7725315888059105	C:/Users/ydnak/Documents/Uni/Year 5 (2024-2025)/Elevator-Controller-Simulator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/ElevatorControllerSimulator_autogen/timestamp	bb94a454f6c3b5b6
+24108	29904	7725316093702643	CMakeFiles/ElevatorControllerSimulator.dir/simulationcontroller.cpp.obj	5de8875de1131989
+3669	3975	7725315889318884	CMakeFiles/ElevatorControllerSimulator.dir/bell.cpp.obj	e3f0ad83f3555fdb
+13	3653	7725315888059105	C:/Users/ydnak/Documents/Uni/Year 5 (2024-2025)/Elevator-Controller-Simulator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/ElevatorControllerSimulator_autogen/mocs_compilation.cpp	bb94a454f6c3b5b6
+3674	9438	7725315889368953	CMakeFiles/ElevatorControllerSimulator.dir/button.cpp.obj	3a2ed97b5feadafb
+19146	27788	7725316044078714	CMakeFiles/ElevatorControllerSimulator.dir/runningstate.cpp.obj	2b10af3d1943f504
+3680	10050	7725315889428903	CMakeFiles/ElevatorControllerSimulator.dir/closebutton.cpp.obj	54c1eed2aec247d6
+3710	10360	7725315889718904	CMakeFiles/ElevatorControllerSimulator.dir/doorobstaclesensor.cpp.obj	7f9cfbb9c3ee4349
+3694	10503	7725315889568936	CMakeFiles/ElevatorControllerSimulator.dir/display.cpp.obj	76bc696046f0ce1
+3702	10567	7725315889638988	CMakeFiles/ElevatorControllerSimulator.dir/door.cpp.obj	e6c00a8c2769ea32
+3687	10711	7725315889488895	CMakeFiles/ElevatorControllerSimulator.dir/destinationpanel.cpp.obj	c008fb00f7f17bc6
+3717	10736	7725315889788917	CMakeFiles/ElevatorControllerSimulator.dir/elevator.cpp.obj	636466e262093ee4
+3744	11078	7725315890068912	CMakeFiles/ElevatorControllerSimulator.dir/elevatorcontroller.cpp.obj	8893e67ec03dde86
+19412	27273	7725316046750156	CMakeFiles/ElevatorControllerSimulator.dir/sensor.cpp.obj	6560acef5c9a3776
+3664	15157	7725315889268879	CMakeFiles/ElevatorControllerSimulator.dir/ElevatorControllerSimulator_autogen/mocs_compilation.cpp.obj	3e6ab043942308ff
+22709	29391	7725316079710789	CMakeFiles/ElevatorControllerSimulator.dir/setupstate.cpp.obj	c3568076c82d4716
+9438	16549	7725315947006925	CMakeFiles/ElevatorControllerSimulator.dir/emergencystate.cpp.obj	6ca1a4df2a4c16f2
+10050	16747	7725315953126943	CMakeFiles/ElevatorControllerSimulator.dir/event.cpp.obj	bede70bd0e3829c1
+10088	17415	7725315953496946	CMakeFiles/ElevatorControllerSimulator.dir/firebutton.cpp.obj	c65952af72e78ef8
+10568	17755	7725315958296937	CMakeFiles/ElevatorControllerSimulator.dir/helpbutton.cpp.obj	68c561ff84e2173f
+10360	18288	7725315956216941	CMakeFiles/ElevatorControllerSimulator.dir/floor.cpp.obj	17cf9ba4c59a2ff0
+10503	19146	7725315957646923	CMakeFiles/ElevatorControllerSimulator.dir/freezestate.cpp.obj	b67e1eb009afbe12
+10712	19251	7725315959736922	CMakeFiles/ElevatorControllerSimulator.dir/holdingstate.cpp.obj	28f7aa73599e221
+10736	19412	7725315959986938	CMakeFiles/ElevatorControllerSimulator.dir/idlestate.cpp.obj	faabcdcd652ae2fe
+11078	22708	7725315963406925	CMakeFiles/ElevatorControllerSimulator.dir/main.cpp.obj	76451369cf565128
+16747	24108	7725316020099134	CMakeFiles/ElevatorControllerSimulator.dir/openbutton.cpp.obj	7fb4ecbf2cf8a4c7
+16549	25078	7725316018117376	CMakeFiles/ElevatorControllerSimulator.dir/movingstate.cpp.obj	677b358c98895cdb
+17755	25616	7725316030172970	CMakeFiles/ElevatorControllerSimulator.dir/passengeraction.cpp.obj	16955a8dcb850ec3
+18288	25793	7725316035504568	CMakeFiles/ElevatorControllerSimulator.dir/pausestate.cpp.obj	c76cf82bc28d634e
+19251	27117	7725316045130144	CMakeFiles/ElevatorControllerSimulator.dir/safetyevent.cpp.obj	860df5de8cdd5ce0
+15158	27671	7725316004202402	CMakeFiles/ElevatorControllerSimulator.dir/mainwindow.cpp.obj	87a541aa2940b399
+46	437	7725316451612044	ElevatorControllerSimulator_autogen/timestamp	bb94a454f6c3b5b6
+46	437	7725316451612044	ElevatorControllerSimulator_autogen/mocs_compilation.cpp	bb94a454f6c3b5b6
+46	437	7725316451612044	C:/Users/ydnak/Documents/Uni/Year 5 (2024-2025)/Elevator-Controller-Simulator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/ElevatorControllerSimulator_autogen/timestamp	bb94a454f6c3b5b6
+46	437	7725316451612044	C:/Users/ydnak/Documents/Uni/Year 5 (2024-2025)/Elevator-Controller-Simulator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/ElevatorControllerSimulator_autogen/mocs_compilation.cpp	bb94a454f6c3b5b6
+456	4353	7725316455712195	CMakeFiles/ElevatorControllerSimulator.dir/speaker.cpp.obj	be57c74a4a3b9e37
+469	4494	7725316455832095	CMakeFiles/ElevatorControllerSimulator.dir/weightsensor.cpp.obj	f4560a63d8ef759d
+450	5133	7725316455642394	CMakeFiles/ElevatorControllerSimulator.dir/simulationstate.cpp.obj	8af6e1e2ad2412ac
+462	5161	7725316455772064	CMakeFiles/ElevatorControllerSimulator.dir/stopstate.cpp.obj	9987012048c619a5
+439	7047	7725316455542077	CMakeFiles/ElevatorControllerSimulator.dir/mainwindow.cpp.obj	87a541aa2940b399
+59	537	7725320013197010	ElevatorControllerSimulator_autogen/timestamp	bb94a454f6c3b5b6
+59	537	7725320013197010	ElevatorControllerSimulator_autogen/mocs_compilation.cpp	bb94a454f6c3b5b6
+59	537	7725320013197010	C:/Users/ydnak/Documents/Uni/Year 5 (2024-2025)/Elevator-Controller-Simulator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/ElevatorControllerSimulator_autogen/timestamp	bb94a454f6c3b5b6
+59	537	7725320013197010	C:/Users/ydnak/Documents/Uni/Year 5 (2024-2025)/Elevator-Controller-Simulator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/ElevatorControllerSimulator_autogen/mocs_compilation.cpp	bb94a454f6c3b5b6
+547	3924	7725320018079175	CMakeFiles/ElevatorControllerSimulator.dir/passenger.cpp.obj	abbde2892f38f19c
+539	6700	7725320017999148	CMakeFiles/ElevatorControllerSimulator.dir/mainwindow.cpp.obj	87a541aa2940b399
+6700	7972	7725320079610492	ElevatorControllerSimulator.exe	2850624163969f30

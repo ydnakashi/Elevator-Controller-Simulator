@@ -32,7 +32,7 @@ void Passenger::setCurrentFloor(int floor) {
 }
 
 void Passenger::display() const {
-    qInfo() <<"Name: " + name + " Starting Floor: " + startingFloor + " Target Floor: " + targetFloor;
+    qInfo() <<"Name: " + name + " Starting Floor: " + QString::number(startingFloor) + " Target Floor: " + QString::number(targetFloor);
 }
 
 void Passenger::enterElevator(int elevatorID) {
