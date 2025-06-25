@@ -1,0 +1,9 @@
+C:/Users/ydnak/Documents/Uni/Year 5 (2024-2025)/Elevator-Controller-Simulator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/ElevatorControllerSimulator.dir
+C:/Users/ydnak/Documents/Uni/Year 5 (2024-2025)/Elevator-Controller-Simulator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/ydnak/Documents/Uni/Year 5 (2024-2025)/Elevator-Controller-Simulator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/ydnak/Documents/Uni/Year 5 (2024-2025)/Elevator-Controller-Simulator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/ydnak/Documents/Uni/Year 5 (2024-2025)/Elevator-Controller-Simulator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/ydnak/Documents/Uni/Year 5 (2024-2025)/Elevator-Controller-Simulator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/ydnak/Documents/Uni/Year 5 (2024-2025)/Elevator-Controller-Simulator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/ydnak/Documents/Uni/Year 5 (2024-2025)/Elevator-Controller-Simulator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/ElevatorControllerSimulator_autogen_timestamp_deps.dir
+C:/Users/ydnak/Documents/Uni/Year 5 (2024-2025)/Elevator-Controller-Simulator/build/Desktop_Qt_6_9_1_MinGW_64_bit-Debug/CMakeFiles/ElevatorControllerSimulator_autogen.dir
